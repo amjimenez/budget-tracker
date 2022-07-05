@@ -1,6 +1,6 @@
 ## Progressive Web Applications (PWA) Challenge: Budget Tracker 
 
-## How to run app
+**How to run app**
 1. Clone the Repository on to your machine.
 2. Run the command ```npm install``` to download the packages.
 3. Run the command ```node server.js``` to run the software.
