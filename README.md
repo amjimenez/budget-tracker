@@ -27,7 +27,8 @@ THEN the deposits or expenses added while they were offline are added to their t
 
 ## Link
 
-A link to the [Deployed Application]():
+A link to the [Deployed Application](https://module-budget-tracker.herokuapp.com):
 ```
+https://module-budget-tracker.herokuapp.com
 
 ```
